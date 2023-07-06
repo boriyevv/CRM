@@ -1,0 +1,13 @@
+{
+    "users": [
+        {
+            "name": "Asadbek"
+        }
+    ],
+
+    "posts":[
+        {
+            "id":1
+        }
+    ]
+}

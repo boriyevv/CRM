@@ -1,0 +1,40 @@
+body{
+    position: relative;
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.6)), url('https://nt-devconnector.onrender.com/static/media/showcase.33c7a31b.jpg') no-repeat 50%;
+    background-size: 100%;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+.header-wrapper{
+    height: 65px;
+    width: 100%;
+    opacity:  0.75;
+    background-color:#343a40; 
+    color: white;
+    border-bottom: 1px solid #17b857;
+}
+
+.headreLogo{
+    font-size: x-large;
+    font-weight: 700;
+    margin: 0;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+
+}
+
+.headreLogo:hover{
+    color: #17b855;
+}
+
+.headerlink{
+    font-size: large;
+    font-weight: 400;
+    margin: 0;
+    text-decoration: none;
+    color: white;
+}
+.headerlink:hover{
+    color: #17b83f;
+}
